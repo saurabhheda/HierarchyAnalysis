@@ -1,0 +1,127 @@
+store,store_label,district,district_label,region,region_label,area,area_label,chain,chain_label,company,company_label,storeformat,storeformat_label,storeclass,storeclass_label
+1000,New York City,1000,US,1000,North America,1000,The Americas,1000,Bricks & Mortar,100,JCB Trading Company,4,4,A,A
+1010,Boston,1000,US,1000,North America,1000,The Americas,1000,Bricks & Mortar,100,JCB Trading Company,5,5,A,A
+1020,San Francisco,1000,US,1000,North America,1000,The Americas,1000,Bricks & Mortar,100,JCB Trading Company,5,5,A,A
+1030,Seattle,1000,US,1000,North America,1000,The Americas,1000,Bricks & Mortar,100,JCB Trading Company,4,4,A,A
+1040,Minneapolis,1000,US,1000,North America,1000,The Americas,1000,Bricks & Mortar,100,JCB Trading Company,5,5,A,A
+1050,Chicago,1000,US,1000,North America,1000,The Americas,1000,Bricks & Mortar,100,JCB Trading Company,4,4,A,A
+1100,Montreal,1100,Canada,1000,North America,1000,The Americas,1000,Bricks & Mortar,100,JCB Trading Company,4,4,A,A
+1110,Toronto,1100,Canada,1000,North America,1000,The Americas,1000,Bricks & Mortar,100,JCB Trading Company,3,3,C,C
+1200,Rio de Janeiro,1200,Brazil,1100,South America,1000,The Americas,1000,Bricks & Mortar,100,JCB Trading Company,6,6,A,A
+1210,Sao Paulo,1200,Brazil,1100,South America,1000,The Americas,1000,Bricks & Mortar,100,JCB Trading Company,6,6,A,A
+2000,London-Oxford Street,2000,Great Britain,2000,Great Britain,2000,Europe,1000,Bricks & Mortar,100,JCB Trading Company,6,6,A,A
+2010,London-Kensington,2000,Great Britain,2000,Great Britain,2000,Europe,1000,Bricks & Mortar,100,JCB Trading Company,5,5,A,A
+2100,Paris,2100,France,2100,Continental Europe,2000,Europe,1000,Bricks & Mortar,100,JCB Trading Company,4,4,A,A
+2110,Lille,2100,France,2100,Continental Europe,2000,Europe,1000,Bricks & Mortar,100,JCB Trading Company,4,4,A,A
+2200,Dusseldorf,2200,Germany,2100,Continental Europe,2000,Europe,1000,Bricks & Mortar,100,JCB Trading Company,6,6,A,A
+2210,Berlin,2200,Germany,2100,Continental Europe,2000,Europe,1000,Bricks & Mortar,100,JCB Trading Company,6,6,A,A
+2300,Barcelona,2300,Spain,2100,Continental Europe,2000,Europe,1000,Bricks & Mortar,100,JCB Trading Company,5,5,A,A
+2310,Madrid,2300,Spain,2100,Continental Europe,2000,Europe,1000,Bricks & Mortar,100,JCB Trading Company,5,5,A,A
+3000,Catalog Store,3000,Catalog,3000,Catalog,3000,Catalog,3000,Catalog,100,JCB Trading Company,0,0,A,A
+4000,E-Osk,4000,E-osk,4000,E-osk,4000,E-osk,4000,E-osk,100,JCB Trading Company,0,0,A,A
+5000,E-Store,5000,E-store,5000,E-store,5000,E-store,5000,E-store,100,JCB Trading Company,0,0,A,A
+11005,Burlington VT,1103,Vermont,11100,Northeast,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+11006,Boston MA,1104,Massachusettes,11100,Northeast,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+11007,Cambridge MA,1104,Massachusettes,11100,Northeast,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+11009,Danbury CT,1105,Connecticut,11100,Northeast,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+11012,5th Avenue,1107,New York,11100,Northeast,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+11013,Albany NY,1107,New York,11100,Northeast,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+11014,Princeton Junction NJ,1108,New Jersey,11100,Northeast,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+11015,Paramus Park NJ,1108,New Jersey,11100,Northeast,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+11016,Pittsburgh PA,1109,Pennsylvania,11100,Northeast,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+11017,KIng of Prussia PA,1109,Pennsylvania,11100,Northeast,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+11021,Baltimore MD,1111,Maryland,11100,Northeast,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+11022,Richmond VA,1112,Virginia,11100,Northeast,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+11027,Cincinnati OH,1114,Ohio,11100,Northeast,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+11029,Detroit MI,1115,Michigan,11100,Northeast,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+12004,Atlanta GA,1203,Georgia,11200,Southeast,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+12005,Macon GA,1203,Georgia,11200,Southeast,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+12005A,Sandy Springs GA,1203,Georgia,11200,Southeast,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+12006,Tallahassee FL,1204,Florida,11200,Southeast,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+12007,Miami FL,1204,Florida,11200,Southeast,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+12010,Raleigh NC,1206,North Carolina,11200,Southeast,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+12011,Chapel Hill NC,1206,North Carolina,11200,Southeast,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+12012,Nashville,1207,Tennessee,11200,Southeast,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+12013,Memphis TN,1207,Tennessee,11200,Southeast,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+12015,Louisville KY,1208,Kentucky,11200,Southeast,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+12017,New Orleans LA,1209,Louisiana,11200,Southeast,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+13003,Chicago IL,1302,Illinois,11300,Central,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+13005,Milwaukee WI,1303,Wisconsin,11300,Central,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+13007,St. Louis MO,1304,Missouri,11300,Central,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+13011,Minneapolis MN,1306,Minnesota,11300,Central,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+13012,Bismarck ND,1307,North Dakota,11300,Central,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+13017,Omaha NE,1309,Nebraska,11300,Central,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+13019,Kansas City MO,1310,Kansas,11300,Central,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+13020,Oklahoma City OK,1311,Oklahoma,11300,Central,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+13022,Austin TX,1312,Texas,11300,Central,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+13023,Dallas TX,1312,Texas,11300,Central,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+14000,Honolulu HI,1401,Hawaii,11400,Southwest,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+14002,Phoenix AZ,1402,Arizona,11400,Southwest,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+14004,Santa Fe NM,1403,New Mexico,11400,Southwest,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+14005,Albequerque NM,1403,New Mexico,11400,Southwest,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+14006,Denver CO,1404,Colorado,11400,Southwest,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+14008,Salt Lake City UT,1405,Utah,11400,Southwest,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+14010,Carson City NV,1406,Nevada,11400,Southwest,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+14011,Las Vegas NV,1406,Nevada,11400,Southwest,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+14012,Los Angeles CA,1407,California,11400,Southwest,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+14013,San Francisco CA,1407,California,11400,Southwest,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+15000,Olympia WA,1501,Washington,11500,Northwest,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+15001,Seattle WA,1501,Washington,11500,Northwest,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+15002,Salem OR,1502,Oregon,11500,Northwest,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+15003,Portland OR,1502,Oregon,11500,Northwest,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+15005,Idaho Falls ID,1503,Idaho,11500,Northwest,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+15011,Anchorage AK,1506,Alaska,11500,Northwest,11000,USA*,1,Retailer,1,1 ORACLE RETAIL,10,10,A,A
+10010,10010 Offshore Location,134,134 Missouri,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,b,Class Stores B
+10020,10020 HQ,134,134 Missouri,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+1111,1111 Charlotte,111,111 North Carolina,11,11 Southeastern US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+1121,1121 Atlanta,112,112 Georgia,11,11 Southeastern US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+1131,1131 Jacksonville,113,113 Florida,11,11 Southeastern US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,b,Class Stores B
+1141,1141 Nashville,114,114 Tennessee,11,11 Southeastern US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+1151,1151 Texas,115,115 Texas,11,11 Southeastern US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,c,Class Stores C
+1211,1211 Boston,121,121 Massachusetts,12,12 Northeastern US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,b,Class Stores B
+121212,121212 GG_test,133,133 Minnesota,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,8,8 Fashion,c,Class Stores C
+1221,1221 New York,122,122 New York,12,12 Northeastern US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+1231,1231 Philadelphia*,123,123 Pennsylvania,12,12 Northeastern US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,b,Class Stores B
+1241,1241 Cleveland,124,124 Ohio,12,12 Northeastern US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,c,Class Stores C
+1271,1271 Shakopee MN,133,133 Minnesota,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+1311,1311 Chicago*,131,131 Illinois,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,c,Class Stores C
+1321,1321 Indianapolis,132,132 Indiana,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,d,Class Stores D
+1331,1331 Minneapolis,133,133 Minnesota,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+1341,1341 St. Louis,134,134 Missouri,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,b,Class Stores B
+1352,1352 Chaska MN,133,133 Minnesota,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+1356,1356 Minnetonka MN,133,133 Minnesota,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+1411,1411 Seattle*,141,141 Washington,14,14 Northcentral US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+1421,1421 Portland,142,142 Oregon,14,14 Northcentral US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,b,Class Stores B
+1511,1511 Phoenix,151,151 Arizona,15,15 Southwestern US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,c,Class Stores C
+1521,1521 Albuquerque,152,152 New Mexico,15,15 Southwestern US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,d,Class Stores D
+1531,1531 Los Angeles*,153,153 California,15,15 Southwestern US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,b,Class Stores B
+160,160 Midway,134,134 Missouri,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+1833,1833 Savage MN,133,133 Minnesota,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+20,20 Knollwood,133,133 Minnesota,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+2189,2189 Knollwood MN,133,133 Minnesota,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+220,220 Ridgedale,133,133 Minnesota,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+260,260 St.Louis Park MN,133,133 Minnesota,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+3,3 Crystal,134,134 Missouri,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+3111,3111 Montreal*,311,311 Quebec,31,31 Eastern Canada,3,3 Canada,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,b,Class Stores B
+3112,3112 Quebec,311,311 Quebec,31,31 Eastern Canada,3,3 Canada,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,b,Class Stores B
+3211,3211 Toronto,321,321 Ontario,32,32 Canadian Lakes,3,3 Canada,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+3212,3212 Ottawa,321,321 Ontario,32,32 Canadian Lakes,3,3 Canada,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+3311,3311 Vancouver,331,331 British Columbia,33,33 Western Canada,3,3 Canada,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,b,Class Stores B
+50,50 Bloomington,134,134 Missouri,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+5111,5111 Sydney*,511,511 New South Wales,51,51 Australia,5,5 Asia Pacific,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+5122,5122 Auckland,512,512 North Island,52,52 New Zealand,5,5 Asia Pacific,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,c,Class Stores C
+5141,5141 Melbourne,570,570 Victoria,51,51 Australia,5,5 Asia Pacific,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,c,Class Stores C
+5151,5151 Perth,571,571 Western Australia,51,51 Australia,5,5 Asia Pacific,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,c,Class Stores C
+5161,5161 Brisbane,572,572 Queensland,51,51 Australia,5,5 Asia Pacific,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,c,Class Stores C
+5181,5181 Christchurch,581,581 South Island,52,52 New Zealand,5,5 Asia Pacific,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,c,Class Stores C
+6,6 Glendale,134,134 Missouri,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+6000,6000 Oceania Outlet,511,511 New South Wales,51,51 Australia,5,5 Asia Pacific,1,Retailer,1,1 ORACLE RETAIL,23,23 Outlet,a,Class Stores A
+6050,6050 Oceania Direct,511,511 New South Wales,51,51 Australia,5,5 Asia Pacific,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+662,662 Cottage Grove,134,134 Missouri,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+68,68 East St.Paul,134,134 Missouri,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+694,694 Woodbury,134,134 Missouri,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+7,7 Westland,134,134 Missouri,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+8,8 Fridley,134,134 Missouri,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+862,862 Chanhassen MN,133,133 Minnesota,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+9,9 West St.Paul,134,134 Missouri,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,a,Class Stores A
+90,90 West St Paul,134,134 Missouri,13,13 Midwest US,1,1 USA*,1,Retailer,1,1 ORACLE RETAIL,10,10 Core Business,b,Class Stores B
